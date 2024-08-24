@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>220451868057-trr1kfr4v9sed1hffbtb7g7q6kb12u7a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.220451868057-trr1kfr4v9sed1hffbtb7g7q6kb12u7a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATLGukVWZRopi1uM3Ic_ouEXtT05evFAg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>220451868057</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.Sonaly-Spa</string>
+	<key>PROJECT_ID</key>
+	<string>sonaly-beauty</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sonaly-beauty.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:220451868057:ios:43b1aa66a001ae62491708</string>
+	<key>DATABASE_URL</key>
+	<string>https://sonaly-beauty.firebaseio.com</string>
+</dict>
+</plist>
